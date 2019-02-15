@@ -1,0 +1,35 @@
+C:\Users\Brad\Desktop\VISB 6201\Lab 1\Solution\OakeBradLab2B\OakeBradLab2B\bin\Debug\OakeBradLab2B.exe.config
+C:\Users\Brad\Desktop\VISB 6201\Lab 1\Solution\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.Resources.resources
+C:\Users\Brad\Desktop\VISB 6201\Lab 1\Solution\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.PieceWorkPayInput.resources
+C:\Users\Brad\Desktop\VISB 6201\Lab 1\Solution\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.SummaryForm.resources
+C:\Users\Brad\Desktop\VISB 6201\Lab 1\Solution\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.vbproj.GenerateResource.Cache
+C:\Users\Brad\Desktop\VISB 6201\Lab 1\Solution\OakeBradLab2B\OakeBradLab2B\bin\Debug\OakeBradLab2B.exe
+C:\Users\Brad\Desktop\VISB 6201\Lab 1\Solution\OakeBradLab2B\OakeBradLab2B\bin\Debug\OakeBradLab2B.pdb
+C:\Users\Brad\Desktop\VISB 6201\Lab 1\Solution\OakeBradLab2B\OakeBradLab2B\bin\Debug\OakeBradLab2B.xml
+C:\Users\Brad\Desktop\VISB 6201\Lab 1\Solution\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.exe
+C:\Users\Brad\Desktop\VISB 6201\Lab 1\Solution\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.xml
+C:\Users\Brad\Desktop\VISB 6201\Lab 1\Solution\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.pdb
+C:\Users\Brad\Desktop\VISB 6201\Lab 2B\OakeBradLab2B\OakeBradLab2B\bin\Debug\OakeBradLab2B.exe.config
+C:\Users\Brad\Desktop\VISB 6201\Lab 2B\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.exe
+C:\Users\Brad\Desktop\VISB 6201\Lab 2B\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.xml
+C:\Users\Brad\Desktop\VISB 6201\Lab 2B\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.pdb
+C:\Users\Brad\Desktop\VISB 6201\Lab 2B\OakeBradLab2B\OakeBradLab2B\bin\Debug\OakeBradLab2B.exe
+C:\Users\Brad\Desktop\VISB 6201\Lab 2B\OakeBradLab2B\OakeBradLab2B\bin\Debug\OakeBradLab2B.pdb
+C:\Users\Brad\Desktop\VISB 6201\Lab 2B\OakeBradLab2B\OakeBradLab2B\bin\Debug\OakeBradLab2B.xml
+C:\Users\Brad\Desktop\VISB 6201\Lab 2B\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.Resources.resources
+C:\Users\Brad\Desktop\VISB 6201\Lab 2B\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.PieceWorkPayInput.resources
+C:\Users\Brad\Desktop\VISB 6201\Lab 2B\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.SummaryForm.resources
+C:\Users\Brad\Desktop\VISB 6201\Lab 2B\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.vbproj.GenerateResource.Cache
+C:\Users\Brad\Desktop\OakeBradLab2B\OakeBradLab2B\bin\Debug\OakeBradLab2B.exe.config
+C:\Users\Brad\Desktop\OakeBradLab2B\OakeBradLab2B\bin\Debug\OakeBradLab2B.exe
+C:\Users\Brad\Desktop\OakeBradLab2B\OakeBradLab2B\bin\Debug\OakeBradLab2B.pdb
+C:\Users\Brad\Desktop\OakeBradLab2B\OakeBradLab2B\bin\Debug\OakeBradLab2B.xml
+C:\Users\Brad\Desktop\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.vbprojAssemblyReference.cache
+C:\Users\Brad\Desktop\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.Resources.resources
+C:\Users\Brad\Desktop\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.PieceWorkPayInput.resources
+C:\Users\Brad\Desktop\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.SummaryForm.resources
+C:\Users\Brad\Desktop\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.vbproj.GenerateResource.cache
+C:\Users\Brad\Desktop\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.vbproj.CoreCompileInputs.cache
+C:\Users\Brad\Desktop\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.exe
+C:\Users\Brad\Desktop\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.xml
+C:\Users\Brad\Desktop\OakeBradLab2B\OakeBradLab2B\obj\Debug\OakeBradLab2B.pdb
